@@ -11,14 +11,12 @@
        
        
        <item>
-         <title></title>
-         <link>https://rafaribe.github.io/hello/</link>
+         <title>Posts</title>
+         <link>https://rafaribe.github.io/posts/</link>
          <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
          
-         <guid>https://rafaribe.github.io/hello/</guid>
-         <description>&lt;p&gt;#Hello World
-Hello all !&lt;/p&gt;
-</description>
+         <guid>https://rafaribe.github.io/posts/</guid>
+         <description></description>
        </item>
        
      </channel>
