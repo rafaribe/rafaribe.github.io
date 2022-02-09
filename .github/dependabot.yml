@@ -3,6 +3,7 @@ updates:
 # Update the git submodules
 - package-ecosystem: "gitsubmodule"
   directory: "/"
+  target-branch: "source"
   schedule:
     interval: "daily"
   labels:
