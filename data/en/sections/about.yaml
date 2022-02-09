@@ -1,0 +1,74 @@
+section:
+  name: About # Title of section (default: "")
+  id: about # url id/slug of section *Required*
+  enable: true # Boolean to determine if this section is enabled (default: false)
+  weight: 1 # Order to display section in (default: alphabetical followed by weight)
+  showOnNavbar: true # Boolean to determine if a link should be shown for this section on the navbar
+  template: sections/about.html # allows you to point to a specific template.
+  # your designation
+designation: Cloud Engineer
+# your company information
+company:
+  name: Neoception, GmbH
+  url: "https://www.rafaribe.com"
+
+summary: 'I am a passionate software engineer with 7 years of working experience. I have worked on a wide range of technologies, from frontend to backend, from full stack to microservices. I have a strong background and preference in Cloud Native technologies and Infrastructure. I love to explore new and exciting technologies '
+
+# your resume. this file path should be relative to you "static" directory
+#resume: "files/resume.pdf"
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "rafael.ntw@gmail.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/rafaribe"
+
+- name: Gitlab
+  icon: "fab fa-gitlab"
+  url: "https://www.gitlab.com/rafaribe"
+
+- name: Stackoverflow
+  icon: "fab fa-stack-overflow"
+  url: "https://stackoverflow.com/users/2298776/ribeiro"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "www.linkedin.com/in/rafaribe1"
+
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "https://twitter.com/rafaribe10"
+
+# Soft skills and cert badges
+
+badges:
+  
+- type: soft-skill-indicator
+  name: Empathy
+  percentage: 85
+  color: blue
+
+- type: soft-skill-indicator
+  name: Team Work
+  percentage: 85
+  color: yellow
+
+- type: soft-skill-indicator
+  name: Hard Working
+  percentage: 95
+  color: orange
+
+- type: soft-skill-indicator
+  name: Communication
+  percentage: 90
+  color: pink
+
+- type: certification
+  name: Certified IOTA Developer
+  url: "https://certification.iota.org/DAXHNPFUZPGXMWOZULHNAICRKTFBJOGPJAKGCXLQBEBPWCNKBENJPKAHTWDSYGLOJIQQRPWCZNHVA9999"
+  badge: "https://s2.coinmarketcap.com/static/img/coins/200x200/1720.png"

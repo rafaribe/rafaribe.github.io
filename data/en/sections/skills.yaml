@@ -1,0 +1,57 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  #hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: C#
+  logo: /images/sections/skills/csharp.png
+  summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed enim eros, dignissim vel mattis eu"
+  url: "https://docs.microsoft.com/en-us/dotnet/csharp/"
+
+- name: Go Development
+  logo: /images/sections/skills/go.png
+  summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed enim eros, dignissim vel mattis eu"
+  url: "https://go.dev/"
+
+- name: Spring
+  logo: /images/sections/skills/spring.png
+  summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed enim eros, dignissim vel mattis eu"
+  url: "https://spring.io/"
+# Cloud 
+- name: Kubernetes
+  logo: /images/sections/skills/k8s.png
+  summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed enim eros, dignissim vel mattis eu"
+  url: "https://kubernetes.io/"
+
+- name: Docker
+  logo: /images/sections/skills/docker.png
+  summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed enim eros, dignissim vel mattis eu"
+  url: "https://www.docker.com/"
+
+- name: Azure
+  logo: /images/sections/skills/azure.png
+  summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed enim eros, dignissim vel mattis eu"
+  url: "https://kubernetes.io/"
+
+- name: Pulumi
+  logo: /images/sections/skills/pulumi.png
+  summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed enim eros, dignissim vel mattis eu"
+  url: "https://kubernetes.io/"
+
+- name: Flux
+  logo: /images/sections/skills/flux.png
+  summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed enim eros, dignissim vel mattis eu"
+  url: "https://www.docker.com/"
+
+- name: Traefik
+  logo: /images/sections/skills/traefik.png
+  summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed enim eros, dignissim vel mattis eu"
+  url: "https://kubernetes.io/"
