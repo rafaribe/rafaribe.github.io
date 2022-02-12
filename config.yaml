@@ -1,4 +1,4 @@
-baseURL: http://rafaribe.com/
+baseURL: http://rafaribe.github.io
 languageCode: en-us
 title: Rafael Ribeiro
 theme: toha
@@ -24,7 +24,7 @@ enableEmoji: true
 params:
   # GitHub repo URL of your site
   gitRepo: https://github.com/rafaribe/rafaribe.github.io
-  background: images/background/1.jpeg
+  background: images/background/7.jpeg
 
   enableBlogPost: true
 
