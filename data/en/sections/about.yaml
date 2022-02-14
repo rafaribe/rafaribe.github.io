@@ -15,7 +15,7 @@ company:
 summary: "I am a passionate software engineer with 7 years of working experience. I have worked on a wide range of technologies, from frontend to backend, from full stack to microservices. I have a strong background and preference in Cloud Native technologies and Infrastructure. Im also passionate about the open source community and contributed to several projects in the cloud ecosystem. I'm also passionate about cryptocurrency and have founded the [Helium DIY](https://github.com/HeliumDIY/helium_ansible) github organization, which aims to provide a sample way to run a Helium miner without manufacturer's software. Another passion of mine is to deploy Kubernetes clusters in bare metal in my homelab using mixed architecture SBC's."
 
 # your resume. this file path should be relative to you "static" directory
-resume: "files/resume.pdf"
+#resume: "files/resume.pdf"
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
