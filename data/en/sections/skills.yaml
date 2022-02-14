@@ -18,12 +18,12 @@ skills:
 
 - name: Golang
   logo: /images/sections/skills/go.png
-  summary: "Experience using Go for backend development and to create internal CLI tooling to automate development workflows. Also evangelized the Go language and its ecosystem to developers within the company"
+  summary: "Experience using Go for backend development and to create internal CLI tooling to automate development workflows. Also evangelized the Go language and its ecosystem to developers within the teams I've worked with"
   url: "https://go.dev/"
 
 - name: Java Spring
   logo: /images/sections/skills/spring.png
-  summary: "Experience with Spring boot to create microservices with REST and gRPC interfaces, also evangelized the testcontainers lirary within the company to improve our test suite and coverage."
+  summary: "Experience with Spring boot to create microservices with REST and gRPC interfaces and asynchronous communication with Kafka, also evangelized the testcontainers library to improve the team test suite and coverage."
   url: "https://spring.io/"
 # Cloud 
 - name: Kubernetes
@@ -33,25 +33,25 @@ skills:
 
 - name: Docker
   logo: /images/sections/skills/docker.png
-  summary: "Responsible to create the blueprint Dockerfiles, and also setup Docker executor for the Gitlab Runners. Extensive experience with Docker and Docker Compose in simple and complex networking setups."
+  summary: "Responsible to create the blueprint Dockerfiles, and also setup Docker executor for the Gitlab Runners. Extensive experience with Docker and Docker Compose in simple and complex networking and file system setups."
   url: "https://www.docker.com/"
 
 - name: Azure
   logo: /images/sections/skills/azure.png
-  summary: "Experience with Microsoft Azure cloud, using Infrastructure as Code practices to deploy cloud resources."
+  summary: "Experience with Microsoft Azure cloud, from Databases to Virtual Machines, from AKS to configuring complex network setups."
   url: "https://azure.microsoft.com/en-us/"
 
 - name: Pulumi
   logo: /images/sections/skills/pulumi.png
-  summary: "Extensive experience with Pulumi as an infrastructure as code tool to deploy cloud resources."
+  summary: "Infrastructure as code tool to deploy cloud resources, used self-hosted and SaaS backends, long with the creation of composite resources to allow developers to focus on value instead of infrastructure."
   url: "https://www.pulumi.com/"
 
 - name: Flux
   logo: /images/sections/skills/flux.png
-  summary: "Experience setting up and configuring Flux since version 1 of the platform. Also proven experience with Flux V2"
+  summary: "Experience setting up and configuring Flux since version 1 of the platform. Also proven experience with Flux V2."
   url: "https://fluxcd.io/"
 
 - name: Ansible
   logo: /images/sections/skills/ansible.png
-  summary: "Exprience setting up Ansible playbooks to automate the provision of Virtual Machines and bare metal machines."
+  summary: "Exprience setting up Ansible playbooks to automate the provision of Virtual Machines and bare metal machines in mixed architectures for edge devices and management/server applications"
   url: "https://www.ansible.com/"
