@@ -1,0 +1,57 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Neoception
+    url: "https://www.neoception.com/"
+    location: Mannheim, Germany (Remote)
+    # company overview
+    overview: 
+  positions:
+  - designation: Senior Software Engineer
+    start: Aug 2019
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Cloud Architecture and Infrastructure focused on Kubernetes and Cloud-Native tools and GitOps principles
+    - Software development in the Industry Internet of Things sector
+    - Proof of concept pilot projects using Descentralized Ledger Technology (IOTA) in colaboration with major companies in the Plattform Industrie 4.0 ecosystem
+    - Responsible for the cloud-native transformation in the comapny, automating most cloud related deployment tasks across multiple projects.
+    - 
+- company:
+    name: Estamos Juntos
+    url: "https://estamosjuntos.pt/"
+    location: Cascais, Lisboa, Portugal
+    overview: Software Engineer
+  positions:
+  - designation: Software Engineer
+    start: Set 2016
+    end: June 2019
+    responsibilities:
+    - Full Stack and mobile development using Microsoft Stack
+    - Breaking the monolith into microservices
+    - Project Lead
+    - Direct contact with the customer and liason between management and customer.
+
+- company:
+    name: Link Viseu
+    url: "https://www.facebook.com/linkviseu"
+    location: Viseu, Portugal
+    overview: Computer Engineering internship at a local media business
+  positions:
+  - designation: Intern
+    start: Mar 2015
+    end: Set 2015
+    responsibilities:
+    - Developed a website for a cultural magazine
+    - Developed a website for a sports newspaper.

@@ -33,7 +33,7 @@ skills:
 
 - name: Docker
   logo: /images/sections/skills/docker.png
-  summary: "Responsible to create the blueprint Dockerfiles, and also setup Docker executor for the Gitlab Runners. Extensive experience with Docker and Docker Compose in simple and complex networking and file system setups."
+  summary: "Responsible to create blueprint Dockerfiles, and also setup Docker executor for the Gitlab Runners. Extensive experience with Docker and Docker Compose in simple and complex networking. Big fan of docker image best-practices such as labels and multi-stage builds"
   url: "https://www.docker.com/"
 
 - name: Azure
@@ -55,3 +55,18 @@ skills:
   logo: /images/sections/skills/ansible.png
   summary: "Exprience setting up Ansible playbooks to automate the provision of Virtual Machines and bare metal machines in mixed architectures for edge devices and management/server applications"
   url: "https://www.ansible.com/"
+
+- name: Prometheus
+  logo: /images/sections/skills/prometheus.png
+  summary: "Exprience setting up Prometheus and the Prometheus Operator using object storage solutions such as Thanos or Mimir to minimize costs and increase availability."
+  url: "https://www.prometheus.io/"
+
+- name: OpenTelemetry
+  logo: /images/sections/skills/opentelemetry.png
+  summary: "Early adopter of the OpenTelemetry standard to collect traces from Spring, Node/Vue and Go applications using the respective instrumentation libraries and also configuring the collector to ship the telemetry to the backends such as Prometheus, Tempo and Loki"
+  url: "https://www.opentelemetry.io/"
+
+- name: Cilium
+  logo: /images/sections/skills/cilium.png
+  summary: "Big fan of the Cilium vision to push eBPF into more and more cloud-native use-cases, such as 'sidecarless' service mesh, ditching Kube-Proxy and providing good observability into the network. Contributor for the Tetragon project under the cilium umbrella, which provides eBPF based runtime security and observability"
+  url: "https://cilium.io/"

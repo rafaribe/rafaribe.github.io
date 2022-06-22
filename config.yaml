@@ -39,3 +39,7 @@ params:
     main: images/logos/favicon/favicon-32x32.png
     inverted: images/logos/favicon/favicon-32x32.png
     favicon: images/logos/favicon/favicon-32x32.png
+  darkMode:
+    enable: true
+    provider: darkreader
+    default: dark
