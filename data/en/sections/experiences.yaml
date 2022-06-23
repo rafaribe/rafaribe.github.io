@@ -23,11 +23,12 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Cloud Architecture and Infrastructure focused on Kubernetes and Cloud-Native tools and GitOps principles
+    - Cloud Architecture and Infrastructure focused on Kubernetes and Cloud-Native tools using GitOps principles
     - Software development in the Industry Internet of Things sector
     - Proof of concept pilot projects using Descentralized Ledger Technology (IOTA) in colaboration with major companies in the Plattform Industrie 4.0 ecosystem
-    - Responsible for the cloud-native transformation in the comapny, automating most cloud related deployment tasks across multiple projects.
-    - 
+    - Responsible for the cloud-native transformation in the company, automating most cloud related deployment tasks across multiple projects.
+    - Coding with an wide array of Programming languages such as Java (Spring), C#, Golang, Typescript focused on event-driven architecture using Kafka, MQTT, gRPC.
+    - Orchestrating Observability tooling such as OpenTelemetry, Prometheus, Tempo, Loki and Grafana 
 - company:
     name: Estamos Juntos
     url: "https://estamosjuntos.pt/"
